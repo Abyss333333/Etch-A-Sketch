@@ -1,0 +1,29 @@
+body {
+    font-size: 14px;
+}
+
+.grid{
+
+    position:relative;
+    top:50px; left:400px;
+}
+
+h1{
+    
+    position:relative;
+    left:700px;
+    font-size: 34px;
+    font-weight:bold;
+    font-family: Helvetica; 
+}
+
+.btn{
+    border:none;
+    color:White;
+    background: DodgerBlue;
+    position:fixed;
+    
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
